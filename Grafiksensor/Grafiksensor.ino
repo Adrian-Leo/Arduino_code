@@ -17,8 +17,8 @@
 //
 #define FIREBASE_HOST "sensor-e78b7-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "XlO4EIHj2vKFTgFZMyxspWpRzHikl1HOdK1yS7SH"
-#define WIFI_SSID "BUDIPW2"
-#define WIFI_PASSWORD "budi2712"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 WiFiClient wifiClient;
 
