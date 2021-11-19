@@ -7,8 +7,8 @@ DHT dht(DHTPIN, DHTTYPE);
 //variable bot telegram
 CTBot myBot;
 //konfigurasi wifi
-String ssid = "Adrian";
-String pass = "ryan2709";
+String ssid = "";
+String pass = "";
 //variable token dan id telegram
 String token = "1508550489:AAGc22EfTNe7sa0nC_dqHAdEpBJUSRKcYwg";
 const int id = 1482187153;
